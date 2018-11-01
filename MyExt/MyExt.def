@@ -1,0 +1,8 @@
+;-------------
+;   MyExt.def
+;-------------
+EXPORTS
+;  helloworld
+  DebugExtensionNotify
+  DebugExtensionInitialize
+  DebugExtensionUninitialize
