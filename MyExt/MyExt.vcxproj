@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DbgExt.cpp" />
+    <ClCompile Include="MyExt.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DbgExt.h" />

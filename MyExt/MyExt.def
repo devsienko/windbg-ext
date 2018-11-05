@@ -2,7 +2,7 @@
 ;   MyExt.def
 ;-------------
 EXPORTS
-;  helloworld
+  helloworld
   DebugExtensionNotify
   DebugExtensionInitialize
   DebugExtensionUninitialize
